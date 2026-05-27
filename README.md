@@ -4,13 +4,13 @@ Analyzed customer revenue, interest earned, income groups, and spending patterns
 Created visual reports for weekly revenue trends, customer job categories, education levels, marital status, and top-performing states.
 Used Power Query and DAX measures for data transformation, calculations, and dashboard optimization.
 Improved business decision-making through data-driven insights and dynamic reporting.
-Skills:
-Power BI
-DAX
-Power Query
-Data Visualization
-Dashboard Development
-Data Cleaning
-Business Intelligence
-KPI Reporting
+Skills Used:
+Power BI,
+DAX,
+Power Query,
+Data Visualization,
+Dashboard Development,
+Data Cleaning,
+Business Intelligence,
+KPI Reporting,
 SQL
